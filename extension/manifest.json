@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Feedly Filter",
+  "description": "This extension learns what you read on Feedly and than is able to mark useful content.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["http://feedly.com/*"],
+      "js": ["jquery_my.js", "feedly.js"]
+    }
+  ]
+}

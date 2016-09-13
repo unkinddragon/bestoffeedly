@@ -1,0 +1,13 @@
+29.07.2016, 11:38:43;http://www.cnews.ru/news/line/2016-06-28_skoraya_kompyuternaya_pomoshch_teper_dostupna
+29.07.2016, 12:00:01;https://habrahabr.ru/post/304258/;[object Object];[object Object]
+29.07.2016, 12:01:37;http://www.cnews.ru/news/line/2016-06-28_rstyle_softlab_otkryvaet_vtoroj_filial_v_krymu;;
+01.08.2016, 18:36:22;https://geektimes.ru/post/278000/;;
+01.08.2016, 18:37:25;http://hortonworks.com/blog/ey-shares-key-observations-hadoop-summit-2016/;;
+01.08.2016, 18:49:18;https://habrahabr.ru/post/304574/;;
+01.08.2016, 18:51:01;http://www.makeuseof.com/tag/9-examples-smartphones-eavesdropping/;;
+01.08.2016, 18:52:19;http://www.cnews.ru/news/top/2016-07-01_tele2_vyvel_skaj_link_v_4g;;
+01.08.2016, 18:53:21;http://www.cnews.ru/news/top/2016-07-01_fns_ishchet_antivirusy_dlya_pk_na_kitajskom_i_venesuelskom;;
+01.08.2016, 18:55:49;http://www.cnews.ru/news/line/2016-07-01_tsrtinnovatsii_predstavila_oblachnyj_servis_dlya;
+01.08.2016, 18:57:17;http://geekcity.ru/u-s-avengers-novyj-ongoing-marvel/;
+01.08.2016, 18:57:52;http://www.kdnuggets.com/2016/07/upcoming-meetings-analytics-big-data-mining-data-science.html;"Upcoming Meetings in Analytics, Big Data, Data Mining, Data Science, Machine Learning: July and Beyond";"Coming soon: Sentiment Analysis Symposium, Data Science Summit, TDWI Accelerate, CDAO Singapore, KDD 2016, HPE Big Data Boston, and many more."
+01.08.2016, 19:01:21;http://varlamov.ru/1813667.html;"Пятничная пьянка! Эфир окончен";" Сегодня, когда все ударились в ЗОЖ, считают шаги и калории, едят сахар без сахара, пьют кофе без кофеина, я один из немногих готов встать на защиту традиционных ценностей. Я во второй раз выхожу в эфир с ""Пятничной пьянкой"", чтобы поднять с вами бокалы и душевно пообщаться. Это передача для ценителей русских традиций винокурения, вкусных алкогольных напитков и хорошей кухни. Будут гости"

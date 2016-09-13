@@ -1,0 +1,15 @@
+*.txt
+
+*~
+
+__pycache__/
+*.py[cod]
+
+*.so
+
+*.log
+
+instance/
+.webassets-cache
+
+.ipynb_checkpoints

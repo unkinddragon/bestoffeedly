@@ -10,7 +10,7 @@ def create_app(config_name):
     app.config.from_pyfile(cfg)
 
     # modules
-    from app.modules.ml.controllers import mod_ml as ml_module
+    from app.modules.ml.ml_controllers import mod_ml as ml_module
 
     app.register_blueprint(ml_module)
 

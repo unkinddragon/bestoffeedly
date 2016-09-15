@@ -1,4 +1,4 @@
-var service_host = 'http://localhost:5000/store/'
+var service_host = 'http://localhost:5000/ml/add_example'
 
 function send_example(label, url, date, title, summary) {
 	console.log(label + ': ' + url);
@@ -18,6 +18,7 @@ function positive() {
 	summary = '';
 	send_example('good', url, date, title, summary);
 }
+
 function negative() {
 	url = $(this).parent('.condensedTools').children('a').prop('href');
 	date = new Date().toLocaleString();

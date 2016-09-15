@@ -14,8 +14,8 @@ function send_example(label, url, date, title, summary) {
 function positive() {
 	url = this.getAttribute('href');
 	date = new Date().toLocaleString();
-	title = '';
-	summary = '';
+	title = $(this).parent('.u100Entry').children('.entryHeader').children('a').text();
+	summary = $(this).parent('.u100Entry').children('.entryBody').children('div:first').text();
 	send_example('good', url, date, title, summary);
 }
 
